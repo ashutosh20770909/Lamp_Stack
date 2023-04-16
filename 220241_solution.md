@@ -6,10 +6,10 @@ Rename this file in the format `yourRollNumber_solution.md` (example, `220000_so
 
 ## Your zeroth approach below
 
-Reasoning - %%% Type your approach here %%%
+Reasoning - %%% changed int ved[] to char ved[]%%%
 
 ```
-%%% Replace this with the 0th challenge answer %%%
+%%% What manual page do you want? %%%
 ```
 
 ---
