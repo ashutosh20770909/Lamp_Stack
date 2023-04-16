@@ -19,7 +19,7 @@ Reasoning - %%% changed int ved[] to char ved[]%%%
 Reasoning - %%% Type our approach here %%%
 
 ```
-%%% Replace this with the 1st challenge answer %%%
+%%% Replace this with the 1st challeng=e answer %%%
 ```
 
 ---
