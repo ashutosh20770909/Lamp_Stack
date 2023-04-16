@@ -16,7 +16,7 @@ Reasoning - %%% changed int ved[] to char ved[]%%%
 
 ## Your first approach below (first.txt)
 
-Reasoning - %%% Type your approach here %%%
+Reasoning - %%% Type our approach here %%%
 
 ```
 %%% Replace this with the 1st challenge answer %%%
