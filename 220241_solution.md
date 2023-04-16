@@ -6,7 +6,7 @@ Rename this file in the format `yourRollNumber_solution.md` (example, `220000_so
 
 ## Your zeroth approach below
 
-Reasoning - %%% changed int ved[] to char ved[]%%%
+Reasoning - %%% changed int ved[] to char ved[] %%%
 
 ```
 %%% What manual page do you want? %%%
@@ -16,17 +16,17 @@ Reasoning - %%% changed int ved[] to char ved[]%%%
 
 ## Your first approach below (first.txt)
 
-Reasoning - %%% Used Caesar cipher with shift of -8 %%%
+Reasoning - %%% Used Caesar cipher with shift of -8.%%%
 
 ```
-%%% String %%%
+%%% noicee you did crack a rotation encryption on your own. The following is a clue for the next puzzle: CLASS of that INPUT. %%%
 ```
 
 ---
 
 ## Your second approach below (strings.txt)
 
-Reasoning - %%% Type your approach here %%%
+Reasoning - %%% We will write a code to find the solution file  and decrypt the strings present to open the  fourth.zip %%%
 
 ```
 %%% Replace this with the 2nd challenge answer %%%
@@ -45,10 +45,11 @@ Reasoning - %%% Type your approach here %%%
 ---
 
 
-- Name :
-- Roll :
-- GitHub username:
-- Discord username:
+- Name :Ashutosh Kumar
+- Roll :220241
+- GitHub username:ashutosh20770909
+- Discord username:Ashutosh Kumar#1096
+
 
 
 ## Do not tamper below this line
