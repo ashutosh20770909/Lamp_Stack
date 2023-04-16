@@ -39,7 +39,7 @@ Reasoning - %%% Type your approach here %%%
 Reasoning - %%% Type your approach here %%%
 
 ```
-%%% Replace this with the 3rd challenge answer %%%
+%%% Replace thiswith the 3rd challenge answer %%%
 ```
 
 ---
