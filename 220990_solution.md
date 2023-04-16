@@ -16,10 +16,10 @@ Reasoning - %%% changed int ved[] to char ved[]%%%
 
 ## Your first approach below (first.txt)
 
-Reasoning - %%% Type our approach here %%%
+Reasoning - %%% Used Caesar cipher with shift of -8 %%%
 
 ```
-%%% Replace this with the 1st challeng=e answer %%%
+%%% String %%%
 ```
 
 ---
